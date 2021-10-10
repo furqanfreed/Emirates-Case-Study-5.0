@@ -1,0 +1,20 @@
+.pageHeading {
+    font-family: Emirates Group;
+    font-size: 5rem;
+    font-weight: 900;
+    text-align: center;
+    margin: 80px 20px 0px 20px;
+
+
+    @media only screen and (max-width: 600px) {
+        font-size: 1.8rem;
+    }
+    
+    @media only screen and (min-width: 600px) {
+        font-size: 2rem;
+    }
+
+    @media only screen and (min-width: 768px) {
+        font-size: 3rem;
+    }
+}

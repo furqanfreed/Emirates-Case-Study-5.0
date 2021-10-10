@@ -1,0 +1,31 @@
+.flightCarrierFlag {
+    width: 65px;
+}
+
+.carrierDetails {
+    position: relative;
+}
+
+.flightCarrierDetails {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.lineSeparator {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0px 10px 10px 10px;
+
+    .line {
+        width: 60%;
+        height: 1px;
+        background-color: #d8d8d8;
+        margin: 6px;
+    }
+
+    img {
+        width: 25px;
+    }
+}
+    
