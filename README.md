@@ -1,6 +1,6 @@
 <h1 align="center">Emirates Case Study</h1>
 
- Please access live site [Create React App](https://github.com/facebook/create-react-app).
+ Please access live site [Emirates Case Study](https://github.com/facebook/create-react-app).
 
 
 ## `Dev Setup & Scirpts`
