@@ -1,6 +1,6 @@
 <h1 align="center">Emirates Case Study</h1>
 
- Please access live site [Emirates Case Study](https://github.com/furqanfreed/Emirates-Case-Study-5.0).
+ Please access live site [Emirates Case Study](https://furqanfreed.github.io/Emirates-Case-Study-5.0/).
 
 
 ## `Dev Setup & Scirpts`
